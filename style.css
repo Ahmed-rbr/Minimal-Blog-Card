@@ -18,3 +18,48 @@ body {
 .author-info a {
   text-decoration: none;
 }
+.wapper {
+  width: 368px;
+  padding: 16px;
+  color: #394150;
+  font-family: "Sora", sans-serif;
+  margin: 164px auto;
+  box-shadow: 1px 7px 14px rgba(0, 0, 0, 0.3);
+  border-radius: 8px;
+}
+
+.img img {
+  width: 100%;
+  border-radius: 8px;
+}
+.img {
+  margin-bottom: 16px;
+}
+.all {
+  width: 100%;
+}
+h2 {
+  margin-bottom: 6px;
+  margin-top: 16px;
+  font-size: 1.125rem;
+}
+.tag {
+  background: #f2eafd;
+  color: #7c19ee;
+  padding: 0.4em 1em;
+  border-radius: 30px;
+  font-size: 0.625rem;
+}
+
+.txt {
+  margin-bottom: 20px;
+  line-height: 1.5;
+  font-size: 0.875rem;
+  width: 100%;
+}
+
+.auth {
+  font-size: 0.75rem;
+
+  margin-bottom: 20px;
+}
