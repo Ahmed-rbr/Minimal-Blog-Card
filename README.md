@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="{https://your-demo-link.your-domain}">
+    <a href="{https://ahmed-rbr.github.io/Minimal-Blog-Card/}">
       Demo
     </a>
     <span> | </span>
-    <a href="{https://your-url-to-the-solution}">
+    <a href="{https://devchallenges.io/solution/43040}">
       Solution
     </a>
     <span> | </span>
@@ -34,7 +34,7 @@
 
 ## Overview
 
-![screenshot]()
+![screenshot](https://github.com/Ahmed-rbr/Minimal-Blog-Card/blob/main/image.png)
 
 I build a Minimal-blog-card it's simple project that show me the giving attention to the Details can make the diffrance
 
